@@ -1,3 +1,8 @@
-using Unity;
+
 
 public class WalkEnemy: mono...
+{
+	public void Start()
+	{
+	}
+}
