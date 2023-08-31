@@ -8,6 +8,6 @@ public class WalkEnemy: mono...
 
 	public void jump()
 {
-	print(Прыжок);
+	print(Прыжок);лжлждл
 }
 }
