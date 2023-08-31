@@ -6,5 +6,6 @@ public class WalkEnemy: mono...
 	{
 		Shoot();
 	}
+sdsdsdsddsdsdsdsds
 
 }
