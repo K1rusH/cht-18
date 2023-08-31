@@ -4,5 +4,7 @@ public class WalkEnemy: mono...
 {
 	public void Start()
 	{
+		Shoot();
 	}
+
 }
